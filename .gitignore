@@ -1,6 +1,11 @@
-*.class
+# OS X
+.DS_Store
 
-# Package Files #
-*.jar
-*.war
-*.ear
+# text files
+*.txt
+
+# byte-compiled python files
+*.pyc
+
+# javascript files
+*.js
